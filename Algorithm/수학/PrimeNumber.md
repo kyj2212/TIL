@@ -5,6 +5,8 @@
 
 Prime Num 구하기
 
+-[ ] Prime prime power 풀어보기 (백준 8293) 
+
 ####  O(N^(1/2) 가능
 
 ### TreeSet vs. PriorityQueue vs. Collections.sort(ArrayList)
